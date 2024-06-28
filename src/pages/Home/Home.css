@@ -1,0 +1,7 @@
+.about-image{
+    background-image: url('../../assets//images/about_us/person.jpg');
+    height: 473px;
+    width: 460px;
+    border-radius: 15px;
+    background-size: cover;
+}
